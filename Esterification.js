@@ -18,7 +18,7 @@ function startExperiment() {
     beaker.classList.add('show');
 
     // Set background image of the ester
-    beaker.style.backgroundImage = "url('Icons/Ester.png')";
+    beaker.style.backgroundImage = "url('Icons/Ester 2.png')";
 }
 
 function resetExperiment() {
