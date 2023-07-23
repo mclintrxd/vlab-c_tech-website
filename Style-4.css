@@ -51,6 +51,23 @@ header {
    padding: 40px;
  }
 
+.button{
+  background-color: rgb(58, 58, 58);
+  color: white;
+  border: none;
+  height: 50px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: opacity 0.15s
+
+ }
+
+ .button::after{
+  background-color: black;
+  opacity: 0.5;
+ }
+
  footer {
    text-align: center;
    background-color: #333;
